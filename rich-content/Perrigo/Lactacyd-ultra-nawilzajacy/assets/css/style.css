@@ -27,7 +27,7 @@
   width: 100%;
   height: 100%;
   opacity: 0.5;
- background-image: url(./img/kv-bg.webp);
+ background-image: url(/rich-content/Perrigo/Lactacyd-ultra-nawilzajacy/assets/img/kv-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 100%;
@@ -66,7 +66,7 @@
 }
 #es-lactacyd.es-lactacyd .es-kv__packshot {
   position: relative;
-  background-image: url(./img/packshot-shadow.webp);
+  background-image: url(/rich-content/Perrigo/Lactacyd-ultra-nawilzajacy/assets/img/packshot-shadow.png);
   background-position: bottom;
   background-repeat: no-repeat;
   background-size: contain;
@@ -150,7 +150,7 @@
   line-height: 1.2;
 }
 #es-lactacyd.es-lactacyd .es-formula {
-background-image: url(./img/bg-formula.webp);
+background-image: url(/rich-content/Perrigo/Lactacyd-ultra-nawilzajacy/assets/img/bg-formula.png);
 background-position: center;
 background-size: cover;
 background-repeat: no-repeat;
@@ -308,7 +308,7 @@ min-height: 200px;
   }
 }
 #es-lactacyd.es-lactacyd .es-effects {
-  background-image: url(./img/bg-results.webp);
+  background-image: url(/rich-content/Perrigo/Lactacyd-ultra-nawilzajacy/assets/img/bg-results.png);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -485,7 +485,7 @@ font-size: 16px;
   position: relative;
 }
 #es-lactacyd.es-lactacyd .es-ph__single--arrow::after {
-  content: url(./img/arrow.webp);
+  content: url(/rich-content/Perrigo/Lactacyd-ultra-nawilzajacy/assets/img/arrow.png);
   display: block;
   margin-top: 10px;
 }
@@ -511,7 +511,7 @@ font-size: 16px;
   width: 100%;
   height: 100%;
   opacity: 0.4;
-  background-image: url(./img/cross-bg.webp);
+  background-image: url(/rich-content/Perrigo/Lactacyd-ultra-nawilzajacy/assets/img/cross-bg.png);
   background-repeat: no-repeat;
   background-position: bottom;
   background-size: cover;
@@ -720,7 +720,7 @@ font-size: 16px;
     position: relative;
   }
   #es-lactacyd.es-lactacyd .es-ph__single--arrow::after {
-    content: url(./img/arrow-mobile.webp);
+    content: url(/rich-content/Perrigo/Lactacyd-ultra-nawilzajacy/assets/img/arrow-mobile.png);
     width: 50px;
     position: absolute;
     right: 30%;
